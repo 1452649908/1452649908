@@ -12,7 +12,7 @@
       <p><b> QQ：1452649908</b></p>
    </td>
   <td width="25%">
-   <img src="/zhengjianzhao.jpg" width="100%">     ![王威凯](/wwk.jpg)
+   <img src="/zhengjianzhao.jpg" width="100%">     
     </td>
   </tr>
 </table>   
